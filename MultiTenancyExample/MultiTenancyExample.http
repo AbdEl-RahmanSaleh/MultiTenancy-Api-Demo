@@ -1,0 +1,111 @@
+@host = https://localhost:7156
+
+# Center 1
+
+GET {{host}}/api/students
+tenant : Center1
+
+###
+
+POST {{host}}/api/students
+tenant : Center1
+Content-Type: application/json
+
+{
+  "name" : "Ahmed Ali",
+  "age" : "16",
+  "grade" : "12"
+}
+
+###
+
+@id=1
+GET {{host}}/api/students/{{id}}
+tenant : Center1
+
+
+
+###
+# Center 2
+
+
+GET {{host}}/api/students
+tenant : Center2
+
+###
+
+POST {{host}}/api/students
+tenant : Center2
+Content-Type: application/json
+
+{
+  "name" : "Mohammed Ahmed",
+  "age" : "16",
+  "grade" : "12"
+}
+
+###
+
+@id=1
+GET {{host}}/api/students/{{id}}
+tenant : Center2
+
+
+
+
+###
+# Center 3
+
+
+
+GET {{host}}/api/students
+tenant : Center3
+
+###
+
+POST {{host}}/api/students
+tenant : Center3
+Content-Type: application/json
+
+{
+  "name" : "Ali Mohammed",
+  "age" : "15",
+  "grade" : "11"
+}
+
+###
+
+@id=1
+GET {{host}}/api/students/{{id}}
+tenant : Center3
+
+
+
+
+###
+# Center 4
+
+
+
+
+GET {{host}}/api/students
+tenant : Center4
+
+###
+
+POST {{host}}/api/students
+tenant : Center4
+Content-Type: application/json
+
+{
+  "name" : "Alaa Ahmed",
+  "age" : "12",
+  "grade" : "8"
+}
+
+###
+
+@id=1
+GET {{host}}/api/students/{{id}}
+tenant : Center4
+

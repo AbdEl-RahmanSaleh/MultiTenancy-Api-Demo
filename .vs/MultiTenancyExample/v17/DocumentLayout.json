@@ -1,0 +1,310 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\new\\Helpers\\MultiTenancy\\MultiTenancyExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D89A6346-1291-4297-9BB2-B653FD36B537}|MultiTenancyExample\\MultiTenancyExample.csproj|e:\\new\\helpers\\multitenancy\\multitenancyexample\\multitenancyexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D89A6346-1291-4297-9BB2-B653FD36B537}|MultiTenancyExample\\MultiTenancyExample.csproj|solutionrelative:multitenancyexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D89A6346-1291-4297-9BB2-B653FD36B537}|MultiTenancyExample\\MultiTenancyExample.csproj|e:\\new\\helpers\\multitenancy\\multitenancyexample\\multitenancyexample\\multitenancyexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D89A6346-1291-4297-9BB2-B653FD36B537}|MultiTenancyExample\\MultiTenancyExample.csproj|solutionrelative:multitenancyexample\\multitenancyexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D89A6346-1291-4297-9BB2-B653FD36B537}|MultiTenancyExample\\MultiTenancyExample.csproj|e:\\new\\helpers\\multitenancy\\multitenancyexample\\multitenancyexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D89A6346-1291-4297-9BB2-B653FD36B537}|MultiTenancyExample\\MultiTenancyExample.csproj|solutionrelative:multitenancyexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D89A6346-1291-4297-9BB2-B653FD36B537}|MultiTenancyExample\\MultiTenancyExample.csproj|e:\\new\\helpers\\multitenancy\\multitenancyexample\\multitenancyexample\\services\\tenantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D89A6346-1291-4297-9BB2-B653FD36B537}|MultiTenancyExample\\MultiTenancyExample.csproj|solutionrelative:multitenancyexample\\services\\tenantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\new\\Helpers\\MultiTenancy\\MultiTenancyExample\\MultiTenancyExample\\Migrations\\20250416115014_addStudentTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MultiTenancyExample\\Migrations\\20250416115014_addStudentTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D89A6346-1291-4297-9BB2-B653FD36B537}|MultiTenancyExample\\MultiTenancyExample.csproj|e:\\new\\helpers\\multitenancy\\multitenancyexample\\multitenancyexample\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D89A6346-1291-4297-9BB2-B653FD36B537}|MultiTenancyExample\\MultiTenancyExample.csproj|solutionrelative:multitenancyexample\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\new\\Helpers\\MultiTenancy\\MultiTenancyExample\\MultiTenancyExample\\Migrations\\20250416114638_addStudentTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MultiTenancyExample\\Migrations\\20250416114638_addStudentTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\new\\Helpers\\MultiTenancy\\MultiTenancyExample\\MultiTenancyExample\\Migrations\\20250416114432_addStudentTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MultiTenancyExample\\Migrations\\20250416114432_addStudentTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D89A6346-1291-4297-9BB2-B653FD36B537}|MultiTenancyExample\\MultiTenancyExample.csproj|e:\\new\\helpers\\multitenancy\\multitenancyexample\\multitenancyexample\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D89A6346-1291-4297-9BB2-B653FD36B537}|MultiTenancyExample\\MultiTenancyExample.csproj|solutionrelative:multitenancyexample\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D89A6346-1291-4297-9BB2-B653FD36B537}|MultiTenancyExample\\MultiTenancyExample.csproj|e:\\new\\helpers\\multitenancy\\multitenancyexample\\multitenancyexample\\settings\\tenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D89A6346-1291-4297-9BB2-B653FD36B537}|MultiTenancyExample\\MultiTenancyExample.csproj|solutionrelative:multitenancyexample\\settings\\tenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D89A6346-1291-4297-9BB2-B653FD36B537}|MultiTenancyExample\\MultiTenancyExample.csproj|e:\\new\\helpers\\multitenancy\\multitenancyexample\\multitenancyexample\\settings\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D89A6346-1291-4297-9BB2-B653FD36B537}|MultiTenancyExample\\MultiTenancyExample.csproj|solutionrelative:multitenancyexample\\settings\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D89A6346-1291-4297-9BB2-B653FD36B537}|MultiTenancyExample\\MultiTenancyExample.csproj|e:\\new\\helpers\\multitenancy\\multitenancyexample\\multitenancyexample\\settings\\tenantsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D89A6346-1291-4297-9BB2-B653FD36B537}|MultiTenancyExample\\MultiTenancyExample.csproj|solutionrelative:multitenancyexample\\settings\\tenantsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\new\\Helpers\\MultiTenancy\\MultiTenancyExample\\MultiTenancyExample\\Services\\IStudentService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MultiTenancyExample\\Services\\IStudentService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\new\\Helpers\\MultiTenancy\\MultiTenancyExample\\MultiTenancyExample\\Dtos\\StudentDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MultiTenancyExample\\Dtos\\StudentDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\new\\Helpers\\MultiTenancy\\MultiTenancyExample\\MultiTenancyExample\\Controllers\\StudentsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MultiTenancyExample\\Controllers\\StudentsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\new\\Helpers\\MultiTenancy\\MultiTenancyExample\\MultiTenancyExample\\Entities\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MultiTenancyExample\\Entities\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\new\\Helpers\\MultiTenancy\\MultiTenancyExample\\MultiTenancyExample\\Services\\StudentService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MultiTenancyExample\\Services\\StudentService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MultiTenancyExample.csproj",
+              "DocumentMoniker": "E:\\new\\Helpers\\MultiTenancy\\MultiTenancyExample\\MultiTenancyExample\\MultiTenancyExample.csproj",
+              "RelativeDocumentMoniker": "MultiTenancyExample\\MultiTenancyExample.csproj",
+              "ToolTip": "E:\\new\\Helpers\\MultiTenancy\\MultiTenancyExample\\MultiTenancyExample\\MultiTenancyExample.csproj",
+              "RelativeToolTip": "MultiTenancyExample\\MultiTenancyExample.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-16T12:09:09.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentDto.cs",
+              "DocumentMoniker": "E:\\new\\Helpers\\MultiTenancy\\MultiTenancyExample\\MultiTenancyExample\\Dtos\\StudentDto.cs",
+              "RelativeDocumentMoniker": "MultiTenancyExample\\Dtos\\StudentDto.cs",
+              "ToolTip": "E:\\new\\Helpers\\MultiTenancy\\MultiTenancyExample\\MultiTenancyExample\\Dtos\\StudentDto.cs",
+              "RelativeToolTip": "MultiTenancyExample\\Dtos\\StudentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T11:25:20.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "E:\\new\\Helpers\\MultiTenancy\\MultiTenancyExample\\MultiTenancyExample\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "MultiTenancyExample\\Controllers\\StudentsController.cs",
+              "ToolTip": "E:\\new\\Helpers\\MultiTenancy\\MultiTenancyExample\\MultiTenancyExample\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "MultiTenancyExample\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T08:01:20.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\new\\Helpers\\MultiTenancy\\MultiTenancyExample\\MultiTenancyExample\\appsettings.json",
+              "RelativeDocumentMoniker": "MultiTenancyExample\\appsettings.json",
+              "ToolTip": "E:\\new\\Helpers\\MultiTenancy\\MultiTenancyExample\\MultiTenancyExample\\appsettings.json",
+              "RelativeToolTip": "MultiTenancyExample\\appsettings.json",
+              "ViewState": "AgIAAAIAAACA/v///78twAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-16T11:10:30.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConfigureServices.cs",
+              "DocumentMoniker": "E:\\new\\Helpers\\MultiTenancy\\MultiTenancyExample\\MultiTenancyExample\\ConfigureServices.cs",
+              "RelativeDocumentMoniker": "MultiTenancyExample\\ConfigureServices.cs",
+              "ToolTip": "E:\\new\\Helpers\\MultiTenancy\\MultiTenancyExample\\MultiTenancyExample\\ConfigureServices.cs",
+              "RelativeToolTip": "MultiTenancyExample\\ConfigureServices.cs",
+              "ViewState": "AgIAAAkAAAAAMDMzM1M/wBYAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T12:21:44.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TenantService.cs",
+              "DocumentMoniker": "E:\\new\\Helpers\\MultiTenancy\\MultiTenancyExample\\MultiTenancyExample\\Services\\TenantService.cs",
+              "RelativeDocumentMoniker": "MultiTenancyExample\\Services\\TenantService.cs",
+              "ToolTip": "E:\\new\\Helpers\\MultiTenancy\\MultiTenancyExample\\MultiTenancyExample\\Services\\TenantService.cs",
+              "RelativeToolTip": "MultiTenancyExample\\Services\\TenantService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T09:17:06.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\new\\Helpers\\MultiTenancy\\MultiTenancyExample\\MultiTenancyExample\\Program.cs",
+              "RelativeDocumentMoniker": "MultiTenancyExample\\Program.cs",
+              "ToolTip": "E:\\new\\Helpers\\MultiTenancy\\MultiTenancyExample\\MultiTenancyExample\\Program.cs",
+              "RelativeToolTip": "MultiTenancyExample\\Program.cs",
+              "ViewState": "AgIAAAMAAADQ/////z8lwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T11:28:17.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "E:\\new\\Helpers\\MultiTenancy\\MultiTenancyExample\\MultiTenancyExample\\Services\\IStudentService.cs",
+              "RelativeDocumentMoniker": "MultiTenancyExample\\Services\\IStudentService.cs",
+              "ToolTip": "E:\\new\\Helpers\\MultiTenancy\\MultiTenancyExample\\MultiTenancyExample\\Services\\IStudentService.cs",
+              "RelativeToolTip": "MultiTenancyExample\\Services\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T11:26:46.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250416115014_addStudentTable.cs",
+              "DocumentMoniker": "E:\\new\\Helpers\\MultiTenancy\\MultiTenancyExample\\MultiTenancyExample\\Migrations\\20250416115014_addStudentTable.cs",
+              "RelativeDocumentMoniker": "MultiTenancyExample\\Migrations\\20250416115014_addStudentTable.cs",
+              "ToolTip": "E:\\new\\Helpers\\MultiTenancy\\MultiTenancyExample\\MultiTenancyExample\\Migrations\\20250416115014_addStudentTable.cs",
+              "RelativeToolTip": "MultiTenancyExample\\Migrations\\20250416115014_addStudentTable.cs",
+              "ViewState": "AgIAABYAAAAAAQAAAAD+vwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T11:50:14.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250416114638_addStudentTable.cs",
+              "DocumentMoniker": "E:\\new\\Helpers\\MultiTenancy\\MultiTenancyExample\\MultiTenancyExample\\Migrations\\20250416114638_addStudentTable.cs",
+              "RelativeDocumentMoniker": "MultiTenancyExample\\Migrations\\20250416114638_addStudentTable.cs",
+              "ToolTip": "E:\\new\\Helpers\\MultiTenancy\\MultiTenancyExample\\MultiTenancyExample\\Migrations\\20250416114638_addStudentTable.cs",
+              "RelativeToolTip": "MultiTenancyExample\\Migrations\\20250416114638_addStudentTable.cs",
+              "ViewState": "AgIAAA0AAADAmZmZmdkpwBkAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T11:46:38.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250416114432_addStudentTable.cs",
+              "DocumentMoniker": "E:\\new\\Helpers\\MultiTenancy\\MultiTenancyExample\\MultiTenancyExample\\Migrations\\20250416114432_addStudentTable.cs",
+              "RelativeDocumentMoniker": "MultiTenancyExample\\Migrations\\20250416114432_addStudentTable.cs",
+              "ToolTip": "E:\\new\\Helpers\\MultiTenancy\\MultiTenancyExample\\MultiTenancyExample\\Migrations\\20250416114432_addStudentTable.cs",
+              "RelativeToolTip": "MultiTenancyExample\\Migrations\\20250416114432_addStudentTable.cs",
+              "ViewState": "AgIAAAAAAABo/v///z8lwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T11:44:32.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\new\\Helpers\\MultiTenancy\\MultiTenancyExample\\MultiTenancyExample\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "MultiTenancyExample\\Entities\\Student.cs",
+              "ToolTip": "E:\\new\\Helpers\\MultiTenancy\\MultiTenancyExample\\MultiTenancyExample\\Entities\\Student.cs",
+              "RelativeToolTip": "MultiTenancyExample\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T11:23:33.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "E:\\new\\Helpers\\MultiTenancy\\MultiTenancyExample\\MultiTenancyExample\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "MultiTenancyExample\\Services\\StudentService.cs",
+              "ToolTip": "E:\\new\\Helpers\\MultiTenancy\\MultiTenancyExample\\MultiTenancyExample\\Services\\StudentService.cs",
+              "RelativeToolTip": "MultiTenancyExample\\Services\\StudentService.cs",
+              "ViewState": "AgIAAAIAAABYZ2ZmZuYswBYAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T11:26:10.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\new\\Helpers\\MultiTenancy\\MultiTenancyExample\\MultiTenancyExample\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MultiTenancyExample\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\new\\Helpers\\MultiTenancy\\MultiTenancyExample\\MultiTenancyExample\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MultiTenancyExample\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABMAAACAiZmZmZkcwBYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T08:20:13.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Tenant.cs",
+              "DocumentMoniker": "E:\\new\\Helpers\\MultiTenancy\\MultiTenancyExample\\MultiTenancyExample\\Settings\\Tenant.cs",
+              "RelativeDocumentMoniker": "MultiTenancyExample\\Settings\\Tenant.cs",
+              "ToolTip": "E:\\new\\Helpers\\MultiTenancy\\MultiTenancyExample\\MultiTenancyExample\\Settings\\Tenant.cs",
+              "RelativeToolTip": "MultiTenancyExample\\Settings\\Tenant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T09:17:01.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "E:\\new\\Helpers\\MultiTenancy\\MultiTenancyExample\\MultiTenancyExample\\Settings\\Configuration.cs",
+              "RelativeDocumentMoniker": "MultiTenancyExample\\Settings\\Configuration.cs",
+              "ToolTip": "E:\\new\\Helpers\\MultiTenancy\\MultiTenancyExample\\MultiTenancyExample\\Settings\\Configuration.cs",
+              "RelativeToolTip": "MultiTenancyExample\\Settings\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T09:17:05.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TenantSettings.cs",
+              "DocumentMoniker": "E:\\new\\Helpers\\MultiTenancy\\MultiTenancyExample\\MultiTenancyExample\\Settings\\TenantSettings.cs",
+              "RelativeDocumentMoniker": "MultiTenancyExample\\Settings\\TenantSettings.cs",
+              "ToolTip": "E:\\new\\Helpers\\MultiTenancy\\MultiTenancyExample\\MultiTenancyExample\\Settings\\TenantSettings.cs",
+              "RelativeToolTip": "MultiTenancyExample\\Settings\\TenantSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T09:17:02.427Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
